@@ -2,7 +2,7 @@
   "name": "awesome-dracula",
   "displayName": "Awesome Dracula",
   "description": "A nicer and darker Dracula theme",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.75.0"
   },
@@ -20,7 +20,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dracula Dark Pro",
+        "label": "Awesome Dracula Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/awesome-dracula-color-theme.json"
       }
