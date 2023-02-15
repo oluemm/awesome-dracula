@@ -1,0 +1,21 @@
+{
+  "name": "dark-dracula",
+  "displayName": "Dark Dracula",
+  "description": "A nicer and darker Dracula theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dracula Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula Dark Pro-color-theme.json"
+      }
+    ]
+  }
+}
